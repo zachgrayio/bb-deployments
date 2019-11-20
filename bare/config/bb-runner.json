@@ -1,4 +1,4 @@
 {
-  "buildDirectoryPath": "build",
+  "buildDirectoryPath": "/tmp/build",
   "listenPath": "runner"
 }

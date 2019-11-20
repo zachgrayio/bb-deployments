@@ -12,8 +12,8 @@
     }
   },
   "browser_url": "http://localhost:7984",
-  "build_directory_path": "build",
-  "cache_directory_path": "cache",
+  "build_directory_path": "/tmp/build",
+  "cache_directory_path": "/tmp/cache",
   "concurrency": 4,
   "runner_address": "unix://runner",
   "scheduler_address": "localhost:8981",
